@@ -9,4 +9,3 @@ Two TFmini lidar connection
 
 *[MicroSD card and LCD connection and LIDAR, Data save]()
 
-$ git clone https://github.com/schacon/simplegit-progit
